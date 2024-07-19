@@ -4,35 +4,37 @@ date: 2024-07-19
 draft: false
 ---
 
-# Hi there! I'm Alex, a Software Engineer at Northeastern University 👋
+# Hello, I'm Vidyavathi Puli
 
-I'm a recent graduate from Northeastern University's Khoury College of Computer Sciences, where I earned my Bachelor's degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university's renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.
+I'm a passionate technologist with a year of software industry experience, currently pursuing a Master of Science in Information Systems at Northeastern University in Boston. I hold a Bachelor's degree in Computer Science from Hyderabad, India.
 
-## My Passion for Technology 💻
+## My Passion
 
-From a young age, I've been fascinated by the power of technology to solve complex problems and improve people's lives. This passion led me to pursue a career in software engineering, where I can continuously learn and innovate while working on projects that make a meaningful impact.
+My driving force is tackling real-world challenges and developing software solutions that positively impact society. I draw inspiration from observing the world around me and approach each day with an insatiable curiosity to learn something new.
 
-## My Co-op Experience 🚀
+## Professional Experience
 
-Throughout my time at Northeastern, I completed three six-month co-op placements:
+During my time as a Software Engineer at Accenture, I worked with:
 
-1. **Software Engineering Intern at Amazon Web Services (AWS)**: I worked on the Elastic Compute Cloud (EC2) team, contributing to the development of new features and optimizations for AWS's flagship compute service.
+- Dot Net framework
+- MVC architecture
+- C# programming
+- Tools like Jira, Git, and Visual Studio
 
-2. **Full Stack Developer at HubSpot**: As part of the Marketing Hub team, I collaborated with designers and product managers to build and maintain user-facing features for HubSpot's marketing automation platform.
+This experience enhanced my skills and knowledge, allowing me to collaborate effectively with my team to produce high-quality work.
 
-3. **Machine Learning Engineer at NVIDIA**: I joined the AI Research team, where I worked on developing and implementing novel deep learning algorithms for computer vision tasks, such as object detection and semantic segmentation.
+## Technical Skills
 
-## My Skills and Interests 🧠
+- **Programming Languages**: Java, Python, C++
+- **Databases**: MySQL, Oracle, MongoDB
+- **Operating Systems**: Unix, Windows Server
+- **Web Technologies**: HTML, CSS, JavaScript, jQuery, PHP, C#
+- **Libraries**: Pandas, NumPy, Matplotlib, OpenCV
 
-- **Programming Languages**: Python, Java, C++, JavaScript, TypeScript
-- **Web Development**: React, Node.js, Express, HTML, CSS
-- **Databases**: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, DynamoDB)
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras
-- **Cloud Computing**: AWS, Google Cloud Platform, Microsoft Azure
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines, Git
+## My Commitment
 
-When I'm not coding, you can find me exploring the great outdoors 🌲, playing soccer with friends ⚽️, or diving into a good science fiction novel 📚.
+I'm dedicated to leveraging my skills and experience to create innovative solutions that can make a difference in the world.
 
-## Let's Connect! 🤝
+## Get in Touch
 
-I'm always eager to learn from others and collaborate on exciting projects. Feel free to reach out to me via [email](mailto:alex@example.com), [LinkedIn](https://www.linkedin.com/in/alex-example/), or [GitHub](https://github.com/alex-example). I look forward to connecting with you!
+Feel free to reach out to me at puli.v@northeastern.edu for productive conversations and potential collaborations.
